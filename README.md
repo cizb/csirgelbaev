@@ -1,6 +1,3 @@
-# Hi there 👋, I'm Chingiz
-Welcome to my profile!
-
 ### 🛠️ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
